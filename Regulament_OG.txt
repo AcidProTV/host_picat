@@ -1,0 +1,355 @@
+MODIFICĂRI REGULAMENT
+
+[!] Ne rezervăm dreptul de a modifica oricând regulamentul serverului. Persoanele ce activeaza pe comunitatea B-HOOD au datoria de a fi la curent cu regulamentul.
+[!] Sancțiunile vor fi acordate în functie de gravitate și abaterile din trecut.
+
+ 
+
+1. REGULI ȘI INFORMAȚII REFERITOARE LA CONTUL DE JOC
+
+ 
+
+NUMELE CONTULUI
+
+Numele contului trebuie să fie decent, fără semne în exces, fără conotaţii ascunse; de asemenea, sugerăm alegerea unui nume nu foarte lung şi reprezentativ pentru creator, întrucât nu este posibil să-i fie schimbat ulterior decât prin achiziționarea cu puncte premium a schimbării numelui în [/shop].
+Numele nepermise vor duce la schimbarea forţată a acestora, iar dacă se refuză acest lucru, contul va fi banat permanent, indiferent de level, fără opţiunea de a fi debanat.
+Alegerea numelor asemănătoare celor existente deja cu scopul de a deranja un jucător sau, şi mai grav, a celor deţinute de membrii ai staff-ului va duce la banarea permanentă. Cei ce deţin conturi de level mai mare şi creează conturi mici de genul vor fi banaţi 14 zile şi pe contul principal. De asemenea, alegerea unor nume ofensatoare în mod repetat pentru a aduce jigniri la adresa unui jucător / membru al staff-ului va duce la banarea pe contul principal pe o durată de 14 zile.
+
+ 
+
+SECURITATEA CONTULUI
+
+Proprietarul unui cont este considerat întotdeauna posesorul adresei de email asociate contului. Din motive de securitate asiguraţi-vă că nu pierdeţi accesul la adresa de mail de pe cont, în caz contrar contul este pierdut.
+Trebuie să cunoaşteţi faptul că staff-ul nu se ocupă de conturile 'sparte' sau 'dispariţia bunurilor' şi că este datoria fiecăruia de a avea grijă de contul / e-mailul său. Singura metodă de a recupera o parolă pierdută/uitată este folosirea funcţiei de recover disponibilă pe panel; deschiderea unui ticket în acest sens este 80% din cazuri inutilă.
+Niciun cont nu a fost spart din vina noastră, astfel, pentru a nu risca să aveţi contul 'spart', vă recomandăm să:
+
+Nu daţi parola nimănui;
+Setaţi un email valid pe cont (trebuie sa fiți posesorul adresei de email);
+Nu folosiți parola de pe alte servere și pe alte site-uri în afară de site-urile noastre oficiale;
+Nu încercaţi să vindeţi/cumpăraţi conturi pe serverul nostru. Abaterea de la acest lucru se va pedepsi cu ban permanent pe contul respectiv;
+Nu descărcaţi cheat-uri/programe dubioase ce promit bani, pp-uri etc. pentru că sunt folosite pentru a fura parole;
+Ne rezervăm dreptul de a alege pe cine ajutăm în cazul în care există o spargere de cont, pierdere de bunuri, pierdere a adresei de mail, respectiv pierderea parolei contului.
+Persoanele care se ocupă cu spargeri sau încercări de spargere de conturi pot fi sancţionate dacă adminii consideră necesar acest lucru, inclusiv prin ştergerea tuturor bunurilor de pe conturi indiferent dacă au fost transferate pe alte conturi. Aceştia sunt sancţionaţi cu ban permanent.
+ 
+
+ACTIVITATEA CONTULUI
+
+Jucătorii care nu au minim 3 ore jucate în ultimele 30 zile pe server vor fi consideraţi inactivi şi riscă pierderea casei şi bizului (dacă există) pe cont. Bunurile confiscate urmeaza sa fie scoase la licitatie.
+În cazul inactivităţii pe o perioada nedeterminată, banii şi vehiculele existente pe cont nu vor fi retrase de pe cont.
+În cazul în care contul este banat pe o perioada mai mare de 30 zile sau permanent, toate bunurile existente pe cont în momentul ban-ului vor fi scoase la licitație.
+În momentul în care serverul atinge numărul maxim de jucători ne rezervăm dreptul de a sancționa cu silent kick persoanele ce au mai mult de 2 conturi conectate pe acelasi IP in acel moment.
+
+ 
+
+CONTURI MULTIPLE
+
+Este permisă deţinerea mai multor conturi pe server, însă în unele cazuri sancţiunile pot fi acordate pe toate conturile jucatorului.
+Conturile create special pentru a încălca regulile serverului (pentru a juca cu coduri, pentru a realiza înşelătorii sau pentru a adresa insulte la adresa staff-ului etc.) vor duce direct la ban permanent pe aceste conturi. cat si sanctionarea contului principal, în funcţie de fapta comisă, antecedentele în acest sens şi level-ul deţinut. În majoritatea cazurilor de sanctiuni pentru cheats, abuz de funcţie, înşelătorii, bug abuse, afaceri ilegale, spargeri de conturi, reclamă, limbaj vulgar la adresa staff-ului etc. ne rezervăm dreptul de a vă bana permanent toate conturile dacă considerăm că este necesar. Pentru sanctiunile de minimă 14 zile, ne rezervăm dreptul de a bana pe aceeaşi durată / permanent toate conturile care împart acelaşi IP.
+Este strict interzis pentru membrii staff-ului (lideri, helperi, admini) să deţină în mod activ mai multe conturi. Orice activitate pe alt cont decât cel pe care deţine funcţia va fi sancţionată cu pierderea funcţiei.
+ 
+
+ 
+
+DISTRIBUIREA CONTULUI
+
+Oferirea contului de joc unui alt jucător este permisă, însă acest lucru se face pe propria răspundere. Echipa administrativa nu raspunde de sanctiunile pe care jucatorul le primeste in momentul in care contul acestuia este impartit.
+Oferirea contului de joc, în cazul în care acesta face parte din mafie, unui membru al comunităţii care are interdicţie în mafie va duce cel mai probabil la plasarea contului dumneavoastră sub interdicţie.
+Mutatul/transferatul de avere de pe un cont străin pe contul tău fără permisiunea deținătorului contului se va considera furt de avere și se va sancționa cu ban 30 de zile pe contul tău + ștergerea averii respective.
+
+ 
+
+2. REGULI ȘI INFORMAȚII REFERITOARE LA LIMBAJ, COMPORTAMENT, RECLAMĂ
+
+ 
+
+JIGNIRILE, INSULTELE ȘI AMENINȚĂRILE
+
+Permitem jucătorilor să se exprime în mod liber, totuşi, pentru a păstra un joc plăcut şi decent vă este interzis să folosiţi insulte sau limbaj vulgar la adresa jucătorilor.
+Ameninţările ce ţin de joc (spre exemplu: "te scot cu 3/3 din factiune") vor fi sancţionate cu warn, spre deosebire de ameninţările de tip flood sau cele ce ţin de viaţa personală a unor jucători sau membrii ai staff-ului (spre exemplu: "ai grija, vin peste tine", "te rup cu bataia", "bag cutitu-n tine", "te bag in pamant"), ce se pot sancționa și cu ban în funcție de gravitate 3, 7 sau 14 zile.
+Amenințările vor fi sancționate doar dacă exprimarea folosită rezultă clar intenția de a face rău. Nu sunt sancționate exprimările ce pot fi înterpretate ca și avertismente sau care au tentă informativă (spre exemplu: "o sa/iti iei fw", "iti fac reclamatie", "ti-am facut reclamatie si o sa iei fw").
+Singurul chat unde sunt permise insultele şi limbajul vulgar este chat-ul clanului. De acest chat răspund liderii clanurilor, nu adminii sau liderii facţiunilor. [excepție este atunci când limbajul vulgar este adresat unui membru staff - lider, helper sau admin - sau server-ului -> în acest caz playerul respectiv riscă mute/ban în funcție de gravitate]
+Un jucător ce face parte dintr-o facţiune şi foloseşte un limbaj vulgar pe un chat diferit de cel al clanului sau al facţiunii poate fi sancționat atât de liderul facțiunii, cât și de admini.
+Dacă un jucător face o greșeală ce ține de facțiune, acesta trebuie reclamat la facţiunea din care face parte pentru a primi sancţiunea meritată. Membrii staff-ului pot sancţiona membrii facţiunilor pe joc dacă observă că încalcă regulile.
+Întrebările pe [/n] care au multe spații și conțin la final limbaj vulgar/neadecvat precum "cat consta inf         s*gi" sau care conțin jigniri/limbaj foarte vulgar cu scopul de a fi postate pe chat-ul global vor fi sancționate cu mute între 60 și 120 minute.
+
+ 
+
+JIGNIRILE ȘI INSULTELE ADUSE UNUI JUCĂTOR
+
+Jignirile minore / limbajul neadecvat precum "handicapat", "sclav", "gay", "mă c*c pe tn" sau cuvintele prescurtate precum "f*m", "stf" vor fi sancționate cu mute între 10 și 60 minute.
+Limbajul vulgar precum "du-te dracu", "sugi p*la", "p*zda proastă" vor fi sancționate cu mute între 60 și 120 minute.
+Limbajul foarte vulgar sau legat de familie precum "fu*uti m*rții m*tii", "băga-mi-aș p*la în fanina m*ti", "sa-mi iei c**iele în gură" vor fi sancționate cu mute între 60 și 200 minute.
+Limbajul vulgar / legat de familie repetitiv (minim 3 înjurături) sau dorințele sadice de a se întâmpla rău jucătorilor precum "sa îți moară ****", "să faci canc** cu familia **" vor fi sancționate cu mute 150 minute & warn. 
+Toxicitatea și comportamentul de prost gust vor fi sancționate cu mute începând cu 60 minute, în cazurile excesive se va putea sancționa chiar si cu ban între 3 zile și permanent.
+Rasismul o sa fie sanctionat cu mute timp de 60 de minute indiferent de chatul in care veti aborda acest tip de comportament. (exceptie pe chatul clanului unde nu se va sanctiona)
+Tip de limbaj vulgar permis (exceptie fata de STAFF): tampit, prost, ratat. Abuzul de acest limbaj permis poate duce la sanctiuni.
+
+ 
+
+
+JIGNIRILE, INSULTELE SAU AMENINȚĂRILE ADUSE UNUI MEMBRU DIN STAFF SAU SERVERULUI
+
+Sancțiunile pentru insulte staff/server se vor acorda astfel (în afară de cei de sub nivel 3 care vor primi ban permanent).
+
+Insulte server:
+Pentru insultele minore față de server ex. (mă p*s pe server, anti-cheat handi*apat, server de căcat etc) se va sancționa cu ban 3 zile.
+Pentru insultele mai grave față de server, ex. (băga-mi-aș p*la-n el de server etc) se va sancționa cu ban 7 - 14 zile.
+
+Injurii/insulte staff:
+Pentru insultele minore față de un membru staff [lider, helper, admin] (prost, handi*apat etc) se va sancționa cu mute între 60 și 120 de minute.
+Pentru insultele grave față de un membru staff [lider, helper, admin] (îmi bag p*la în tine, ți-o f*t pe m*-ta etc) se va sancționa cu ban 3 - 14 zile (în dependență de gravitate).
+Pentru jignirile și insultele minore față de scripter/owner se acordă ban 3 zile, iar pentru cele mai grave se acordă ban 7 - 14 zile.
+Sfidarea, batjocora sau atitudinea nerespectuoasă față de STAFF, ex. (ieși, dă-i drumu, ești degeaba, câine) se va sancționa cu mute între 30 și 60 minute.
+În cazul jignirilor / amenințărilor pe panel-ul de joc al serverului, prin tichetele de ajutor, reclamaţii, unban-uri vor fi sancționate doar cu suspend panel.
+
+ 
+
+JIGNIRILE, INSULTELE SAU AMENINȚĂRILE SCRISE PE UN CHAT GLOBAL
+
+Dacă acestea au loc pe un chat care este vizibil pentru toţi jucătorii ([/ad], [/live], [/news], [/gov] etc.) vor fi sancţionate cu ban intre 3 - 30 zile, în funcţie de levelul deţinut şi gravitate faptei. De asemenea, pe chat-urile globale sunt interzise folosirea emoticoanelor, a caps lock-ului pentru a atrage atenția, spamul sau alte abateri asemănătoare; încălcarea acestei reguli duce la sancţionare cu kick / warn în general, însă se poate ajunge inclusiv la ban pe durata indicată mai sus.
+
+ 
+
+DEATHMATCH, NON-RP, DRIVE-BY ȘI HELI-BLADE
+
+Deathmatch-ul se definește prin acordarea de damage unui jucător sau a vehiculului în care se află, iar acesta se face pe propria răspundere.
+Deathmatch-ul (prescurtat DM) realizat cu o armă de foc (deagle, M4, shotgun etc.) şi cel cu pumnii / o armă albă (bâtă de baseball, crosă de golf etc.) vor fi sancţionate diferenţiat, timpul pentru fiecare sancţiune fiind automat, atât pe joc cât şi pe panel. În cazul DM-ului cu armele este necesară atingerea cu un singur glonţ pentru a putea fi sancţionat, în schimb, pentru a putea fi sancţionaţi pentru DM cu pumnii trebuie să scădeţi circa 15-20 HP victimei/victimelor sau 150 HP unui vehicul ce are sofer.
+Notă: putem acorda DM chiar dacă nu a dat nimeni [/report] dacă vă atacați cu armele în zone de job sau zone populate, deoarece instigați la DM.
+Drive-by (prescurtat DB) reprezintă călcarea unui jucător cu maşina si este sanctionat cu jail timp de 30 de minute.
+Heli-Blade (prescurtat HB) reprezintă lovirea unui jucător cu elicea unui elicopter si este sanctionat cu WARN + confiscarea licenței de zbor timp de 2 ore și este permis doar pe polițiști.
+Deathmatch-ul este sancționat cu închisoare (pe un timp determinat de sancțiunile antecedente) şi retragerea licenţei de port-armă conform sistemului din joc şi de pe panel.
+Este permis şi nesancţionat deathmatch-ul în interiorul celulelor.
+Dacă un polițist off-duty face deathmatch atunci el este sancționat de către liderul facțiunii respective și de către admini.
+Kamikaze este sancționat cu WARN și confiscarea licenței folosite pentru a face acest lucru (daca este cazul) timp de 2 ore, iar acesta este permis doar pe polițiști.
+Comportamentul non-rp este sancționat cu kick la prima abatere, iar apoi cu warn și confiscarea licenței folosite pentru a face acest lucru (daca este cazul) timp de 2 ore. În reclamații este sancționat direct cu warn și confiscarea licenței (daca este nevoie).
+
+ 
+
+RECLAMĂ
+
+Nu permitem să faceţi reclamă altor comunităţi sau servere care nu aparţin de B-HOOD şi veţi fi sancţionaţi cu ban permanent pentru conturile până în nivelul 3 şi cu ban 30 zile pentru conturile de level 3 sau mai mare. În funcţie de caz, cei de level 3 sau mai mare pot fi somaţi să înceteze pronunţarea anumitor cuvinte interzise, ulterior, dacă nu se încetează, recurgandu-se la ban.
+
+ 
+
+SPAM
+
+Nu este permisă repetarea unui mesaj de mai mult de 3 ori în mai puțin de 10 secunde sau umplerea chat-ului cu mesaje; aceste acţiuni se consideră spam şi se sancţionează în general cu mute între 30-60 minute pe joc (în funcţie de gravitate). În unele situaţii, dacă considerăm că prin spam aţi deranjat un număr ridicat de persoane (spam de o gravitate mare în locuri / chat-uri extrem de populate) sancţiunea poate fi de kick/warn.
+
+ 
+
+AFACERI INTERZISE ȘI ÎNȘELĂTORII
+
+Jucătorii pot face schimb de bunuri folosind comanda /trade în care se va afișa un dialog unde puteți propune un schimb ce conține mai multe bunuri (bani, business-uri, case, vehicule).
+Afacerile ce conțin mai mult de 4 iteme pot fi făcute cu ajutorul unui admin, puteți chema unul folosind funcția de afacere din comanda [/report].
+Înșelătoriile sunt sancționate cu ban 14 zile iar tentativele cu ban 7 zile pentru jucătorii de nivel 8+, iar pentru jucătorii de nivel 1-7 sunt sancționate cu ban permanent.
+Dacă ai fost înșelat la o afacere pe care ai făcut-o pe propria răspundere bunurile acordate celui ce te-a înșelat vor fi șterse.
+În cazul în care ai primit țeapă sau jucătorul te-a înșelat, vei primi înapoi bunul/suma de bani pe care trebuia să îl dai acelui jucător.
+Jucătorii care sunt prinși înșelând de cel puțin 3 ori vor fi sancționați cu ban permanent, indiferent de nivelul acestora. (se contorizează și tentativele de înșelătorie)
+Jucătorii ce vor fi prinși jucând dice pe bunuri personale vor fi sancționați cu warn. De asemenea, dacă un jucător îl reclamă pe altul pentru înșelătorie la dice, ambii vor fi sancționați pe motiv dice pe bunuri personale.
+Acumularea a 5 warn-uri pentru Dice pe bunuri personale va fi sancționată cu ban permanent.
+Vânzările/schimburile de conturi sau achizitionarea acestora sunt sancționate cu ban permanent.
+Afacerile cu bunuri ce nu țin de joc sunt sancționate cu ban permanent.
+Jucătorii ce se folosesc de mai multe conturi pentru înșelătorii o să primească ban permanent pe toate.
+Sunt interzise afacerile cu hidden, tuning pe masina, vip, puncte premium depozitate in clan pe bani sau alte bunuri de pe server, singura metodă de a vinde una din ele este prin comanda /trade, orice altă metodă este considerată Afaceri interzise și o să fie sancționată cu ban 7 zile.
+Jucătorii ce vor da [/ad] că pun tuning pe masina, hidden, etc. în schimbul unei sume de bani vor fi sancționați cu ștergerea anunțului.
+Jucătorii ce organizează evenimente și nu oferă premiul o să fie sancționați cu warn pentru eveniment fake.
+** Pentru a reclama un jucător ce a făcut un eveniment fake, sunt necesare dovezi cum că ați participat la evenimentul respectiv.
+Jucătorii ce organizează evenimente ce includ sponsorizări (exemple: fac event stunt, pentru a participa transfer 100k / primul care îmi dă 100k câștigă 200k) se sancționează cu warn.
+Jucătorii ce organizează evenimente pe chat-urile publice ([/wt], etc.) cum ar fi: "/wt Primii 10 care ajung la mine primesc 5kk" nu vor fi sancționați chiar dacă nu acordă banii câștigătorilor, vor fi sancționați doar dacă fac astfel de evenimente pe [/ad].
+Pariurile se fac pe propria răspundere, jucătorii nu sunt sfătuiți să facă acest lucru.
+Împrumuturile se fac pe propria răspundere, nu ne ocupăm de recuperarea de bunuri în acest caz.
+Nu ne ocupăm de transferurile de bani sau afaceri cu id-uri greșite, este de datoria jucătorului să se asigure cui îi transferă o sumă de bani sau bunuri. Aceasi regula se aplica si in momentul in care jucatorul liciteaza gresit bani la o licitatie.
+Jucătorii ce vând chei la vehiculele personale și nu oferă cheile după primirea sumei de bani sunt sancționați cu warn.
+Jucătorii care cer datele team viewer unui jucător pentru a îi fura bunurile sunt sancționați cu ban 7 zile pentru tentativă înșelătorie (exceptie: jucatorii cu level mai mic de 3 vor primi ban permanent).
+Jucătorii ce încearcă să cumpere bunuri / să vândă în joc prin metode ilegale vor fi sancționați cu ban permanent pentru afaceri ilegale. Pentru tentativă afaceri ilegale (exemplu: un jucător dă mesaj pe joc vând avere pe bani psf) jucătorul va fi sancționat cu ban 30 zile. 
+
+Nota: Tentativa de afaceri ilegale este cuprinsa din dovezi foto/video de pe server cand au loc discutii despre afacere, iar afacerea ilegala este cuprinsa din dovezi foto/video din mediul privat (discord, facebook, WhatsApp, etc...) despre afacere.
+Jucătorii ce cer bani/bunuri pentru intrarea intr-o facțiune sunt sancționați cu ban 7 zile pe motiv cerere bunuri pentru intrare în facțiune și vor primi uninvite din facțiune cu 50 FP pe același motiv. De asemenea, jucătorii ce oferă bani pentru a intra în facțiuni se încadrează în aceeași regulă. In cazul în care jucătorul este Lider, Co-Lider sau tester și cer bani/bunuri pentru intrare în facțiune, banul va fi PERMANENT.
+În cazul în care un membru staff se încadrează în regula de mai sus, se poate acorda ban permanent de la prima abatere, în funcție de situație.
+Distribuirea testelor de intrare din cadrul facțiunilor se va sancționa cu uninvite dacă faceți parte din facțiunea respectivă și cu ban 3 zile în caz că nu faceți parte din acea facțiune.
+În cazul în care faci un ticket pentru raportarea spargerii contului tău, iar apoi se demonstrează că ai "mințit" în acel ticket și că ai dat de bună voie contul vei fi sancționat cu ban 30 zile pentru înșelătorie.
+
+ 
+
+MODURI
+
+Prin mod se înțelege orice program, fișier, extensie etc. care îți oferă schimbari estetice ale jocului sau aduc alte modificari ce nu iti ofera un avantaj ție sau care nu perturbă bunăstarea serverului.
+Folosirea unor moduri care-ți aduc un avantaj destul de mare față de restul jucătorilor este interzisă și se sancționează de la kick până la ban de la 30 zile în sus, în funcție de modul folosit.
+Puteți deține orice fel de mod în calculator, atâta timp cât nu-l catalogam ca si mod ilegal (ce va ofera avantaje substantiale fata de alti jucatori). Dacă nu sunteți în totalitate siguri că modul folosit este permis este indicat să nu-l folosiți sau puteți deschide un tichet în care să faceți o prezentare a modului.
+Este interzisă conducerea în largul mării în linie dreaptă ce indică folosirea Cruise Control sau blocarea unei taste pentru a face asta. Valabil și pentru Maverick sau oricare vehicul care oferă aceste avantaje. De asemenea este interzis să schimbi vremea pentru a-ți oferi un avantaj în apa pentru a face ore, acest lucru se va sancționa cu warn la șofer și respawn la vehicul.
+
+ 
+
+EXEMPLE DE MODURI PERMISE
+
+Moduri care modifică ținta doar ca aspect vizual;
+Moduri care modifică skinurile doar ca aspect vizual;
+Moduri care modifică skinurile vehiculelor doar ca aspect vizual atâta timp cât sunt de aceleași dimensiuni și număr de locuri cu cele originale;
+Moduri care modifică culorile jocului și-l fac să pară mai real (ENB, timecyc și altele);
+Moduri care modifică cerul, copacii, clădirile și alte aspecte ale jocului atâta timp cât acestea nu devin transparente, nu se poate trece prin ele;
+Moduri care modifică vremea sau timpul doar ca aspect vizual (always night/day și altele);
+Moduri care schimbă animațiile cu precizarea ca animațiile respective să nu fie mai rapide decât cele originale (să alerge mai rapid, să se rostogolească mai rapid, să sară mai mult și altele);
+Moduri care modifică HUD-ul doar ca aspect vizual;
+Moduri care-ți permit să te conectezi pe mai multe servere simultan;
+Librăria CLEO și extensia Sampfuncs;
+Alte moduri care aduc modificări doar ca aspect vizual pentru tine și nu pot fi folosite în mod abuziv față de script;
+ 
+
+EXEMPLE DE MODURI NEPERMISE
+
+Moduri care permit utilizarea fișierelor nepermise de SAMPCAC ca mafiot (ex: SAMPCAC Emulator) - se acordă ban 30 zile;
+Moduri care modifică aspectul skin-urilor astfel încât să ajute la ţintirea inamicilor (skin-uri redimensionate) - se acordă ban 30 zile;
+Moduri care-ți permit să fii AFK mai mult decât timpul prestabilit de server fără a primi kick de la AdmBot (autoclicker și altele) se va sancționa cu ban 7 zile la prima abatere, ban 15 zile la a doua abatere și ban 30 zile la următoarele abateri. Pentru script-urile de autoclicker se va acorda indiferent de abateri ban 30 zile;
+Moduri care înregistrează și urmează automat un traseu (route recording și altele) - se acordă ban 30 zile;
+Moduri care se pot cataloga ca și coduri - se acordă ban 30 zile;
+Moduri care aduc anumite animații care nu sunt din scriptul serverului, servesc la acțiuni abuzive și împotriva scriptului și setărilor originale ale jocului (parkour etc) - se acordă ban 30 zile;
+Moduri care te ajuta sa schimbi armele mult mai repede (autoscroll / auto-litefoot și altele) - se acordă ban 30 zile. 
+ 
+
+CODURI
+
+Prin cod (hack) se înțelege orice program, mod, fișier, extensie etc. care îți oferă abilități nefirești și dăunătoare jocului, un avantaj nefiresc ție sau care perturbă bunăstarea serverului. Nu permitem așa ceva și sancționăm cu ban temporar conturile incepand cu nivel 3 și ban permanent conturile sub acest nivel. Sancțiunea acordată pe zile se va face în funcție de tipul de cheat utilizat. Notați că nu permitem nici deținerea de coduri în calculatoarele voastre. Jucătorilor cărora adminii găsesc urme de coduri, chiar dacă au fost șterse, tot vor fi sancționați. Încurajăm jocul corect din toate punctele de vedere, așadar e responsabilitatea voastră să vă asigurați că n-aveți absolut nicio urmă de cod în calculator sau riscați să fiți sancționați.
+În momentul acumulării a 3 sancțiuni pentru cheats când te aflii într-o mafie (totale pe un cont sau mai multe conturi) se va sancționa cu interdicție mafii, liderul va avea permisiunea să vă demită din facțiune pe motivul ”Interdicție mafii” cu verificarea unui manager mafii sau admin superior.
+Jucătorii care au minim 3 conturi banate pentru cheats (ex: aimbot, atentat, troll-hack și alte coduri usoare precum fly-hack) vor primi ban permanent pe toate conturile pe motiv "Cheats de pe alte conturi".
+Jucătorii care au minim 3 sancțiuni de cheats pe cont la a 4-a sancțiune de cheats vor primi ban permanent pe cont pe motiv ”Cheats în repetate rânduri”.
+Jucătorii care au minim 4 conturi banate la activ pentru cheats vor primi ban permanent pe conturile respective pe motiv ”Cheats în repetate rânduri”. 
+Dacă profiți de codurile unui jucător vei fi sancționat cu ban 14 zile în cazul în care nu ai raportat codatul ([/cheats] / [/report]), în cazul în care l-ai raportat și nu întrerupi acțiunea de a profita vei fi sancționat cu ban 7 zile.
+
+ 
+
+EXEMPLE DE CODURI ȘI DURATA BANĂRII
+
+Coduri care modifică modul în care un jucător trage cu arma, țintește, provoacă daune celorlalți, trage automat, încarcă arma mai repede etc. (aimbot, norecoil/nospread, rapidfire, damage hack și altele) - se acordă ban 60 zile la prima abatere, a doua abatere 90 de zile, a treia abatere ban permanent.
+In cazul aimbot-ului mult prea evident sau 'atentat' se poate acorda ban PERMANENT pe IP.
+Coduri care permit vizualizarea jucătorilor ori a numelor acestora la o distanță mai mare decât normal ori prin obiecte (wallhack și altele) - se acordă ban 30 zile.
+Coduri care modifică viteza maximă a vehiculelor, accelerația, dimensiunea, rezistența, culoarea, componentele (tuning, controlul, integritatea, repair, speed hack, acceleration hack, drift mods, repair mods, tuning mods, airbrake și altele) - se acordă ban 30 zile.
+Coduri care permit jucătorului să se teleporteze, să alerge mai rapid, să sară mai mult, să zboare, să se cațere pe clădiri etc. (teleport hack, 0b32, prototype, flying cheats, jump cheats și altele) - se acordă ban 30 zile.
+Coduri care-ți permit să-ți modifici viața, armura, să-ți dai arme etc. (health hack, armour hack și altele) - se acordă ban 30 zile.
+Coduri care-ți permit să găsești anumite obiecte ascunse în timpul evenimentelor speciale - se acordă ban 14 zile.
+Alte coduri care-ți permit abilități care nu sunt integrate în script sau joc - se acordă ban 30 zile.
+Coduri care afectează mai mulți jucători deodată - trollhack (aruncarea mașinilor în aer, wanted acordat aiurea la mulți playeri, bubuirea în masă a mașinilor etc.), o să fie sancționată cu ban permanent pe IP indiferent de level.
+Codurile care-ți rulează jocul într-o altă lume sau aplicații de pe telefon care-ți rulează jocul simulând clientul SA:MP (ex: rakdroid) - se acordă ban 30 zile.
+Coduri de tip "Crasher", indiferent de level-ul jucătorului se acordă ban permanent pe IP.
+ 
+
+CONTROLARE CALCULATOR
+
+Adminii își rezervă dreptul de a vă controla calculatorul pentru coduri sau moduri interzise. Jucătorii își rezervă dreptul de a refuza controlul însă vor fi sancționați cu ban 30 zile. Necooperarea completă din partea jucătorului va fi sancționată cu aceeasi sanctiune (aici se include /q la control, crash, oferirea de date false adminului ori alte situații similare).
+Suntem total împotriva jucătorilor care trișează așadar chiar dacă aveți codurile/modurile în calculator și nu le-ați folosit pe serverele noastre tot veți fi sancționați.
+Jucătorii ce fac parte dintr-o mafie nu au voie să joace cu CLEO / SAMPFUNCS în timpul war-urilor, acest lucru se va sancționa cu ban timp de 7 zile pentru moduri interzise.
+Jucătorii care încearcă să ascundă urma codurilor sau modurilor interzise folosite prin diverse programe de tip cleaner (CCleaner sau alte programe) ori alte programe și/sau metode vor fi banați timp de 14 zile. Regula aceasta funcționează și jucătorilor ce ruleaza CMD înaintea Testelor Remote control sau alte moduri situații identice.
+Jucătorilor ce fac parte dintr-o facţiune şi au fost luaţi la teste de tip control calculator, le este interzis să folosească comanda (/quitfaction). În cazul folosirii acestei comenzi, în timpul testului sau imediat după ce au fost informaţi că participă la un astfel de test, îi va permite administratorului să deschidă un ticket pe această temă, pentru a i se schimba „faction history-ul”.
+Programe utilizate în controlul "Remote Control": TeamViewer, Supremo sau AnyDesk
+
+ 
+
+BUG-ABUSE
+
+Folosirea de orice bug ce ține de joc sau server este interzisă.
+Profitarea de un bug ce ține de neatenția scripter-ului va fi sancționată cu ban 3 zile, excepție bug-urile care te ajută să faci rost de bani/bunuri personale, deoarece acestea se pedepsesc cu ban permanent.
+Exploatarea unui bug pentru a te avantaja este strict interzisă și este sancționată în funcție de situație.
+Exploatarea bug-urilor la vehiculele de tip bike, mountain bike, bmx (mega-jump) cu scopul de a evita contactul cu polițiștii este sancționată cu warn.
+Exploatarea bug-urilor de hartă/texturi în scopul primirii unui avantaj (ex: scăpat de poliție, ascunderea cu wanted într-un loc inaccesibil, [/spray] mai ușor etc) se va sancționa cu warn pentru bug abuse.
+Folosirea unui bug ce ține de mapă pentru a te teleporta este sanctionată cu ban 3 zile daca prin acest lucru afectezi jocul unui alt player (ex: teleport-uri pentru a scăpa de un polițist).
+
+C-Bug-ul & C-Shot-ul se va sancționa în felul următor: 
+Primele 2 abateri -> warn + suspendarea licenței de arme 5 ore;
+3+ abateri -> ban 3 zile + suspendarea licenței de arme 10 ore;
+
+
+Folosirea comenzii [/call 112] la un eveniment susținut de către un admin se va sancționa cu warn.
+Membrii din mafii care sunt prinși că stau G într-un vehicul fara sofer în timpul war-ului pe turf vor primi warn & suspend la licența de arme 5 ore pentru bug-abuse.
+
+ 
+
+ALTE ABUZURI
+
+Membrii facţiunilor ce fac abuz de funcţie (în funcţie de specificul facţiunii, aceste abuzuri pot fi dar nu se rezumă la: wanted aiurea, order în exces, DM cu sniper, licenţe acordate fără test, news aiurea etc.) vor fi sancţionaţi cu ban 30 zile.
+Co-liderii facţiunilor ce fac abuz de funcţie vor fi sancţionaţi cu ban permanent, iar liderul respectivei facțiuni va fi demis din funcție din cauza abuzului co-liderului. Liderii facţiunilor ce fac abuz de funcţie vor fi banaţi permanent.
+Membrii facţiunilor / co-liderii care încalcă regulamentul / fac greşeli intenţionat pentru a avea motiv de reclamaţie împotriva liderului / pentru a putea fi sancţionat liderul vor fi sancţionaţi ca şi în cazul unui abuz de funcţie, chiar dacă poate greşelile sunt minore.
+Rămâne la aprecierea staff-ului dacă anumite fapte sunt considerate drept abuz şi dacă vor fi şi cum vor fi sancţionate.
+În majoritatea cazurilor de abuz de funcţie ne rezervăm dreptul de a vă bana permanent absolut toate conturile dacă considerăm că este necesar.
+Jucătorii ce dau park la mașini în fața HQ-urilor, pe mijlocul drumului sau în alte zone necorespunzătoare o să fie sancționați cu Warn.
+Jucătorii ce își pun nume ce conține cuvinte vulgare la Vipname, Carplate, House și Business o să fie sancționați de asemenea cu Warn.
+Jucătorii ce abuzează de comanda [/eject] pentru a bloca sau deranja jucătorii vor fi sancționați cu Warn pentru "Abuz de [/eject]".
+Este strict interzisă folosirea scripturilor automate, exploatarea bug-urilor sau utilizarea conturilor secundare în aceste acțiuni pentru a genera bani pe server. Orice abatere duce la banarea temporară sau permanentă a tuturor conturilor implicate (inclusiv a persoanelor care au primit sumele de bani în mod conștient).
+
+ 
+
+
+3. REGULI ȘI INFORMAȚII REFERITOARE LA RECLAMAȚII, TICKET ȘI CERERI DE UNBAN
+
+ 
+
+RECLAMAȚII
+
+Orice reclamaţie făcută pe panel trebuie susţinută de dovezi concrete, poze sau video. Toate dovezile de pe server trebuie să includă marcajele serverului cu data, ora, numele jucătorului şi al serverului. Ne rezervăm dreptul de a respinge orice dovezi care nu includ toate aceste lucruri.
+Dovezile ce nu aparţin domeniului "B-HOOD" nu sunt luate în considerare deoarece se pot falsifica foarte uşor. Dovezile ce conţin diferite modificări sunt de asemenea respinse. În cazul Afacerilor Ilegale ne putem abate de la această regulă.
+Toate dovezile din reclamaţie trebuie să aparţină persoanei care face reclamaţia sau persoanei care este reclamată; doar adminii au dreptul de a acţiona pe baza dovezilor altora.
+O dovadă este valabilă cel mult o zi (24 ore); dacă n-aţi avut timp să faceţi reclamaţia în acest timp atunci nu o mai faceţi deloc deoarece nu va fi luată în considerare. Dovezile pentru orice tip de cheats expiră în 30 de zile de la comiterea faptei.
+În cazul în care un jucător deschide o reclamaţie şi se dovedeşte că dovadă este editată, respectivul va fi sancţionat cu ban 14 zile.
+Reclamaţiile care conţin dovezi ce au ca titlu un limbaj ofensator sau filmări ce conţin melodii cu mesaj explicit pot fi respinse dacă adminul consideră necesar acest lucru şi sancţionate cu suspend între 3 şi 14 zile, în funcţie de gravitate şi abateri.
+Jucătorii ce postează o dovadă într-o reclamație sunt obligați să păstreze dovada validă timp de 3 zile (link-ul de youtube, imgur etc. să poată fi accesat şi vizualizat) după ce reclamaţia sa a fost închisă. Cei ce nu respectă această regulă vor fi sancţionaţi cu suspend 7 zile + ban 3 zile, iar sancţiunea celui reclamat va fi scoasă, respectiv acordată în cazul în care a fost o contra-dovadă. Notă: Se aplică această regulă și pentru dovezile din aplicații / topicuri.
+Reclamaţiile ce conţin dovezi privind încălcarea regulamentului care sunt într-un interval scurt de timp (maxim 10 minute) se acordă o singură sancţiune în cele mai multe cazuri.
+Ne rezervăm dreptul de a sancţiona persoanele care fac reclamaţii total aiurea (fără un motiv bine întemeiat) sau care jignesc, înjură, ameninţă sau suferă în ele cu suspendarea contului de panel pe 3-14 zile.
+Nu este permisă şantajarea jucătorilor pentru a retrage sau pentru a evita crearea unei reclamaţii. Astfel, cei ce oferă sau cer mită vor fi sancţionaţi cu warn. Se sancționează la fel și tentativele de cerere mită. Crearea mai multor reclamații degeaba (2+) adresate unui player / lider / admin / helper o să fie sancționată la prima abatere cu suspendarea contului pe panel cu 14 zile, urmată cu 30 zile / permanent.
+Dacă sunteți surprinși deconectându-vă la somațiile unui polițist, în condițiile în care nu aveți wanted sau aveți wanted și nu sunteți în zona polițistului (dacă sunteți primiți automat jail de la server) veți fi sancționați cu warn pentru [/q] la somații & suspend la licența de condus 3 ore. Se aplică și atunci când primești "timeout"/crash, dacă nu dorești să fii sancționat trebuie să vii cu dovezi în reclamație că nu ai facut-o intenționat.
+Dacă un polițist vă informează/somează([/permis]) pentru permis trebuie să rămâneți conectați pe joc minim 10 minute (chiar dacă intri în jail), altfel veți fi sancționați cu warn pentru [/q] la permis & suspend la licența de condus 3 ore. Dacă v-a fost confiscat permisul după informarea/somarea([/permis]) polițistului deja vă puteți deconecta. Se aplică și atunci când primești "timeout"/crash, dacă nu dorești să fii sancționat trebuie să vii cu dovezi în reclamație că nu ai facut-o intenționat. Polițistul trebuie să vină cu dovezi clare (dovadă permis, întreaga urmărire, deconectare jucător etc).
+Dacă un polițist vă somează sau aveți wanted nu aveți voie să vă ascundeți / să evitați contactul cu poliția în diferite locații neaccesibile (ex: [/sleep], paintball, [/tpevent] etc) pentru a bloca desfășurarea acțiunii (wanted, confiscate etc), încălcarea acestei reguli va duce la sancționarea voastră cu warn pentru evitare polițist la somații & suspend la licența de condus 3 ore.
+Reclamațiile făcute pentru a denigra jucătorii sau staff-ul și pentru a pune în stres sau strica buna dispoziție (minim 3 reclamații sau zilnic pentru o perioadă de timp) va fi sancționată cu suspend 15-30 zile și permanent în dependență de gravitate & abateri pe motiv de "post hunting", dorim să oferim un joc cât mai plăcut fără persoane care pun în dificultate intenționat jucătorii sau staff-ul. De menționat că regula se ia în considerare și de pe conturile secundare.
+Notă: Post Hunting este atunci când creezi reclamații jucătorilor care nu ți-au greșit personal (sau în mod direct) cu scopul deranjării jocului.
+
+ 
+
+RECLAMAȚII ADRESATE JUCĂTORILOR DIN FACȚIUNI
+
+În cazul jucătorilor care fac parte dintr-o facţiune sunteţi rugaţi să-i reclamaţi liderului intrând pe profilul acestora şi făcând apoi click pe textul 'Reclamă player > Raportează-l la facţiune' în cazul încălcărilor regulamentului facţiunii sau încălcări uşoare de regulament al serverului precum DM. Dacă aveţi de făcut reclamaţii mai grave vă rugăm să-i raportaţi adminilor (reclamaţii de tip "Other / SCAM / Offensive language").
+
+ 
+
+RECLAMAȚII ADRESATE MEMBRILOR DIN STAFF
+
+În cazul reclamaţiilor adresate staff-ului (lider, helperi, admini) persoana care face reclamaţia trebuie să fie implicată în mod direct motivului pentru care face reclamaţia, altfel aceasta va fi ignorată. Puteţi sesiza anumite probleme care nu vă implică în mod direct managerilor printr-un PM şi aceştia vor decide dacă este necesar să ia măsuri sau nu.
+Nu vor fi luate în considerare reclamaţiile cu dovezile de pe contul liderului / membrilor, ce se pot găsi în diferite topicuri ale facţiunii.
+Atunci când creaţi o reclamaţie încercaţi să fiţi cât mai clar în detalii şi să oferiţi toate dovezile necesare, adminii nu vor sta să descifreze ceea ce vreţi să reclamaţi sau să caute singuri prin topicuri / log-uri, de aceea, ne rezervăm dreptul de a respinge reclamaţiile cu puţine detalii şi/sau dovezi.
+Orice reclamaţie care nu denotă respect față de STAFF va fi ignorată şi reclamantul va fi sancţionat cu suspendarea contului de panel pe o durata de 3-14 zile, si banarea jucătorului pe server pentru injurii staff (dacă e cazul).
+Realizarea aiurea a mai mult de 2 reclamaţii împotriva unui lider/helper/admin sau a mai multor persoane din staff duce la suspendarea contului de panel pentru 14 zile la început, ulterior pedeapsa crescând cu 7 zile pentru fiecare nouă abatere, sancţiunea fiind aplicată pe toate conturile, inclusiv pe cele secundare, cât şi pe cel principal.
+Jucătorii care nu sunt implicați direct cu liderul (într-o sancțiune[amendă/av/fw/uninvite], postare model panel etc) și deschid o reclamație împotriva unui lider, acesta nu va fi sanctionat, doar atenționat și va avea 24 de ore să se corecteze, în caz contrar va fi sancționat. Excepție: greșelile grave precum uninvite total aiurea, abuz de funcție ș.a.m.d. vor fi sancționate.
+Jucătorii care nu sunt implicați direct în raspunsul helper-ului și deschid o reclamație împotriva unui helper, acesta nu va fi sancționat dacă greșeala este minoră (literă/cuvânt greșit, parțial incomplet/incorect etc). Excepție: răspunsurile total aiurea sau în batjocoră vor fi sancționate indiferent de situație.
+
+ 
+
+TICHETE DE AJUTOR
+
+Puteți deschide un tichet pentru o problemă ce ţine de contul de joc, de server sau de panel. Vă rugăm să folosiţi un limbaj civilizat în tichetele de ajutor, întrucât cele scrise în bătaie de joc sau cu caps lock pot fi inchise fără a fi oferită vreo explicație și se poate acorda suspend pe o perioadă decisă de admini.
+
+ 
+
+CERERI DE UNBAN
+
+Odată ce aţi primit ban aveţi 24 de ore pentru a deschide o cerere de unban dacă consideraţi că nu aţi fost banat corect. Dacă ştiţi că aţi primit ban meritat, nu are rost să deschideţi o cerere de unban doar pentru a vedea dacă adminul are dovadă. După ce aţi deschis cererea de unban, aşteptaţi ca adminul care v-a banat să vă pună dovada ban-ului (acesta are aproximativ 24 de ore la dispoziţie) şi răspunsul altui admin.
+Pentru cererile repetate de unban (3 sau mai multe) veţi fi sancţionat cu suspend între 3 și 30 de zile. Dacă după expirarea suspendului veţi continua să deschideţi cereri veţi primi suspend în funcţie de valoarea ban-ului. De asemenea, orice cerere făcută în batjocură, care nu denotă respect față de STAFF sau în care sunt jigniţi membrii ai staff-ului se va sancţiona cu suspend şi va fi ignorată. În unele cazuri ne rezervăm dreptul de a ţine ceva mai mult timp deschise cererile de unban, de aceea vă recomandăm, mai ales dacă faceţi parte dintr-o facţiune, să faceţi cât mai devreme cererea de unban.
+
+ 
+
+4. ALTE REGULI
+
+
+Ne păstrăm prerogativa de a aduce modificări scriptului jocului în orice moment considerăm necesar, fără a aduce prejudicii vreunui jucător. Asemenea ajustări vor fi implementate în scopul menținerii echilibrului în joc.
+Cei care fac parte dintr-o facțiune dar încalcă regulile serverului doar pentru a fi demiși / pentru a da [/quitfaction] or să fie sancționați de către un admin. La fel se procedează și în cazul celor care încalcă regulile când nu au un lider la facțiune.
+Promovarea / distribuirea de cheats / coduri se sancționează cu warn pentru tentative/glume (de ex. spune numele codului) sau ban 7 zile pentru promovarea codurilor de ban sub 60 de zile (de ex. teleport, speed, fly etc), cazurile mai grave (de ex. cumpără codul x, ia codul y, activează codul z, am codul y) vor fi sancționate cu ban 14 zile.
+În unele situații sancțiunea poate fi mai mare, până la ban permanent (de ex. în caz că sunt multe ban-uri recente pentru cheats).
+Este interzisă punerea de nume indecente la house name / business name / text vip pe mașină / număr inmatriculare mașină, abaterea de la această regulă este sancționată cu warn.
+Parcarea vehiculelor personale la intrarea unei case, clan/faction HQ, în stradă sau în locurile aglomerate cu scopul de a încurca/opri traficul este interzisă și este sancționată cu warn. (exemple)
+Jucătorii care crează diverse probleme comunităţii (acumulează multe sancţiuni grave, creează conturi doar pentru a strica buna desfăşurare a serverului etc.) considerăm că nu se pot adapta regulilor impuse de noi şi ne rezervăm dreptul de a-i bana permanent.
+Nu este permis [/d]-ul aiurea sau free-chat-ul pe [/d], profitând de formula "[/d] nu este free-chat", deoarece se creează spam și deranjează membrii departamentelor - sancțiune kick.
+În cazul în care ai scris un [/d] aiurea și folosești comanda [/q] intenționat pentru a scăpa de kick vei fi sancționat cu warn pentru [/d] în loc de kick.
+Membrii departamentelor ce folosesc comanda [/d] aiurea și apoi se deconectează de pe joc intenționat pentru a scăpa de kick vor fi sancționați cu warn pentru [/d].
+Jucătorii ce folosesc comanda [/ad] aiurea de >= 3 ori vor fi sancționați cu kick. Dacă aceștia se deconectează de pe joc intenționat pentru a scăpa de kick vor fi sancționați cu warn pentru [/ad].
+Jucătorii ce folosesc comanda [/ad] total aiurea sau în batjocoră și anunțul nu este șters de către STAFF în caz de reclamație vor fi sancționați cu warn pentru [/ad] aiurea.
+În cazul în care un jucător îi postează un [/ad] altui jucator (EX: Y vinde 100pp la 10kk sms 1234) îi va fi șters anunțul pe motivul [/ad aiurea].
+În cazul în care acumulați 3 sancțiuni de tip "warn", urmează să fiți automat sancționați cu ban 7 zile de sistem.
+
+APLICAȚII HELPER
+
+Pentru a aplica la functia de helper ai nevoie de minim 25 de ore jucate. Puteti aplica apasand aici.
